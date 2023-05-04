@@ -1,0 +1,3 @@
+- [**C#**: _Learn C# by Building a Simple RPG_](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
+- [**C#**: _Creating a Roguelike Game in C#_](https://roguesharp.wordpress.com/)
+- [**C#**: _Build a C#/WPF RPG_](https://scottlilly.com/build-a-cwpf-rpg/)
