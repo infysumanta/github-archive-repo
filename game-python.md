@@ -1,0 +1,3 @@
+- [**Python**: _Developing Games With PyGame_](https://pythonprogramming.net/pygame-python-3-part-1-intro/)
+- [**Python**: _Making Games with Python & Pygame_](https://inventwithpython.com/makinggames.pdf) [pdf]
+- [**Python**: _Roguelike Tutorial Revised_](http://rogueliketutorials.com/)
