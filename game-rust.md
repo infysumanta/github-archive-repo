@@ -1,0 +1,4 @@
+- [**Ruby**: _Developing Games With Ruby_](https://leanpub.com/developing-games-with-ruby/read)
+- [**Ruby**: _Ruby Snake_](https://www.diatomenterprises.com/gamedev-on-ruby-why-not/)
+- [**Rust**: _Adventures in Rust: A Basic 2D Game_](https://a5huynh.github.io/posts/2018/adventures-in-rust/)
+- [**Rust**: _Roguelike Tutorial in Rust + tcod_](https://tomassedovic.github.io/roguelike-tutorial/)
